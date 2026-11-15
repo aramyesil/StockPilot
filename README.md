@@ -74,12 +74,11 @@ Bu çalışma, Software Persona eğitiminin ikinci hafta final projesi olarak Cu
 - `npm run lint` ve `npm run build` komutlarını çalıştırdı. Derleme hatasız tamamlandı.
 - Ürün ekleme, düzenleme, silme, stok artırma, fazla çıkışı engelleme, kritik stok hesabı ve sayfa yenilemede verinin korunmasını hem veri katmanında hem de headless Chrome üzerinde denedi. Mobil genişlikte menünün açıldığı da aynı turda kontrol edildi.
 
-Yapılmayan işler:
+Yapılmayan iş:
 
 - Ekran görüntüsü alınmadı.
-- Netlify üzerinde yayınlanmadı.
 
-Kod, [aramyesil/StockPilot](https://github.com/aramyesil/StockPilot) deposuna gönderildi.
+Kod [aramyesil/StockPilot](https://github.com/aramyesil/StockPilot) deposuna gönderildi. Canlı site [stockpilot2.netlify.app](https://stockpilot2.netlify.app/) adresinde yayında.
 
 ## Ekran görüntüleri
 
@@ -93,6 +92,4 @@ Görseller henüz eklenmedi. Uygulamayı çalıştırdıktan sonra aşağıdaki 
 ## GitHub ve canlı demo
 
 - GitHub deposu: [https://github.com/aramyesil/StockPilot](https://github.com/aramyesil/StockPilot)
-- Canlı demo: `https://STOCKPILOT_DEMO.netlify.app`
-
-Canlı demo adresi yer tutucudur. Netlify sitesi açıldıktan sonra gerçek adresle değiştirilmelidir.
+- Canlı demo: [https://stockpilot2.netlify.app/](https://stockpilot2.netlify.app/)
